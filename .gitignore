@@ -1,2 +1,13 @@
+# dependencies
 /node_modules
+
+# Environment
 .env
+.DS_Store
+.vscode
+
+# production
+/build
+
+package-lock.json
+npm-debug.log*
